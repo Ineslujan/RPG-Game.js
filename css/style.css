@@ -1,0 +1,43 @@
+body {
+    background: #ddd;
+    position: relative;
+}
+
+.win {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4rem;
+    background-color: #00000050;
+}
+
+.player {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 15px 0 15px 35px;
+    border-color: transparent transparent transparent blue;
+    margin: 20px;
+}
+
+#board {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.row {
+    display: flex;
+}
+
+.cell {
+    border: 1px solid black;
+}
