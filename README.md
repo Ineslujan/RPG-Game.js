@@ -1,5 +1,16 @@
 # RPG-Game.js
 
+This JavaScript website is a game. 
+
+I made this "RPG" game during my training. The aim of this exercise is to use a `for`loop in a `for`loop.
+
+The commands are :
+- Right arrow : Turn clockwise ⤵️
+- Left arrow : Turn anticlockwise ⤴️
+- Enter : Validate the move ✅
+
+___
+
 ## Main technology
 
 - JavaScript
@@ -19,9 +30,9 @@ ___
 - clean code in a object
 ___
 
-## How to use the project
+## How to see the project
 
-direct link : http://www.
+direct link : https://ineslujan.github.io/RPG-Game.js/
 
 or
 
